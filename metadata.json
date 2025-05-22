@@ -1,0 +1,5 @@
+{
+  "name": "Guía del Taller NotebookLM",
+  "description": "Una aplicación web para presentar la guía de implementación del taller NotebookLM en Educación Médica, detallando su estructura, objetivos, funcionalidades de NotebookLM y perfil de los participantes.",
+  "requestFramePermissions": []
+}
